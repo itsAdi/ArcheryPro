@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: 445a23643d32e4d4a8e73d0486355e2e
+timeCreated: 1471592316
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Sprites4
+    21300002: arrow
+    21300004: arrowTarget1
+    21300006: arrowTarget2
+    21300008: back
+    21300010: bg
+    21300012: bg night
+    21300014: bow
+    21300016: cloud
+    21300018: cloudDay
+    21300020: easy
+    21300022: exit
+    21300024: facebookLink
+    21300026: hard
+    21300028: home
+    21300030: homeBg
+    21300032: landDay
+    21300034: landNight
+    21300036: leaderboard
+    21300038: lefthandoff
+    21300040: lefthandon
+    21300042: moderate
+    21300044: moregames
+    21300046: musicoff
+    21300048: musicon
+    21300050: retry
+    21300052: righthandoff
+    21300054: righthandon
+    21300056: scoreboard
+    21300058: setting
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 44
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: arrow
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2034
+        width: 92
+        height: 12
+      alignment: 9
+      pivot: {x: .0399999991, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowTarget1
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1256
+        width: 20
+        height: 122
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowTarget2
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1593
+        width: 11
+        height: 122
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: back
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1165
+        width: 369
+        height: 335
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bg
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 751
+        width: 800
+        height: 480
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bg night
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 269
+        width: 800
+        height: 480
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bow
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 421
+        width: 49
+        height: 116
+      alignment: 9
+      pivot: {x: .819999993, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 11
+        width: 799
+        height: 317
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloudDay
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1715
+        width: 800
+        height: 317
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: easy
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 790
+        width: 237
+        height: 80
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: exit
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 269
+        width: 59
+        height: 57
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: facebookLink
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 11
+        width: 87
+        height: 89
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hard
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1826
+        width: 237
+        height: 80
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: home
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 330
+        width: 87
+        height: 89
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: homeBg
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1233
+        width: 800
+        height: 480
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landDay
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 330
+        width: 800
+        height: 228
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: landNight
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 560
+        width: 800
+        height: 228
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leaderboard
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1165
+        width: 87
+        height: 89
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lefthandoff
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1502
+        width: 265
+        height: 79
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lefthandon
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1583
+        width: 265
+        height: 79
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moderate
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 872
+        width: 237
+        height: 80
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: moregames
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1502
+        width: 87
+        height: 89
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: musicoff
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 102
+        width: 87
+        height: 87
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: musicon
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 11
+        width: 87
+        height: 87
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: retry
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1908
+        width: 87
+        height: 89
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: righthandoff
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1664
+        width: 265
+        height: 79
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: righthandon
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1745
+        width: 265
+        height: 79
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: scoreboard
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 790
+        width: 554
+        height: 373
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: setting
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 954
+        width: 87
+        height: 89
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
